@@ -7,7 +7,7 @@
 
 ---
 
-<h3 align="center">Flutter Developer | Passionate about Developing User-Friendly Applications</h3>
+<h3 align="center">Seeking challenging opportunities to make a positive impact and grow professionally.</h3>
 
 
 
@@ -25,7 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=irawnewton&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Favourite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github.com/iRawNewton/iRawNewton/blob/main/banner.jpg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=irawnewton&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
