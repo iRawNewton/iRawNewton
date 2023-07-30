@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![logo]([https://github.com/iRawNewton/iRawNewton/blob/main/pexels-j%C3%A9shoots-234527.jpg](https://github.com/iRawNewton/iRawNewton/blob/main/Gaming%20YouTube%20Channel%20Art%20(2).png))
+![logo](https://github.com/iRawNewton/iRawNewton/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Gaurab Roy</h1>
 <h3 align="center">Flutter Developer | Passionate about Developing User-Friendly Applications</h3>
 
