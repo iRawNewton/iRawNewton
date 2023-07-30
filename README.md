@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/iRawNewton/iRawNewton/blob/main/banner.jpg) -->
 
 <!-- profile view -->
-[![](https://visitcount.itsvg.in/api?id=irawnewton&icon=5&color=3)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=irawnewton&icon=5&color=3)](https://visitcount.itsvg.in) -->
 
 <h1 align="center">Hi 👋, I'm Gaurab Roy</h1>
 
